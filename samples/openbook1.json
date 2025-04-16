@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "source_path": "run001",
+        "custom_fields_schema": []
+    },
+    "models": [
+        {
+            "name": "gemini-experimental"
+        },
+        {
+            "name": "gemini-1.5-flash"
+        }
+    ],
+    "examples": [
+        {
+            "input_text": "what are the ways that prompt monitoring can be used and what tools do we have?",
+            "tags": [
+                "ML Ops for GenAI"
+            ],
+            "output_text_a": "Prompt monitoring can be used to track how prompts change over time, and to evaluate prompt effectiveness for a given task.\n\nTools that are currently being used and discussed are:\n\n*  *OpenLLMetry*: A framework for logging and tracing LLMs and agents, which can be integrated with OpenTelemetry. *Thread:* thread\n* *Vertex AI Model Garden*: Offers Hugging Face to Vertex AI Model Garden integration. *Thread:* thread\n* *LangChain*: An open-source framework for building LLM applications, which offers a variety of tools for prompt engineering, including prompt monitoring. *Thread:* thread\n* *LangSmith*: A tool for evaluating and monitoring LLMs, which offers a range of metrics for evaluating prompt effectiveness. *Thread:* thread\n*  *Vertex AI Shift*: A new SDK for building Gen AI applications, which includes features for tracing and debugging, which can be used for prompt monitoring. *Thread:* thread\n* *Vertex AI Search*: Offers a managed RAG service with functionality for tuning prompt effectiveness and evaluation. *Thread:* thread\n* *GenAI Book*: A Google document that offers guidance on MLOps for Gen AI, including a section on prompt management. *Thread:* thread\n* *Cloud Workflows*: A service for orchestrating and managing workflows, which can be used to manage prompt engineering pipelines. *Thread:* thread\n* *Project Anaheim* (Vertex AI Vision): A vision-focused product offering that provides a visual canvas and pre-built specialized models. *Thread:* thread\n\nMore information on tools and approaches for prompt monitoring can be found in the following spaces and threads:\n\n* *Space:* spaces/AAAAOcj1iRQ\n* *Thread:* thread\n* *Thread:* thread\n* *Thread:* thread\n* *Thread:* thread\n* *Thread:* thread\n* *Thread:* thread",
+            "output_text_b": "This Google Chat Space doesn&#39;t mention the different ways prompt monitoring can be used.\n\nHowever, thread mentions [PromptLayer\n            ](thread) as a potential tool for prompt monitoring.",
+            "score": 0.5,
+            "individual_rater_scores": []
+        },
+        {
+            "input_text": "what are the ways that prompt monitoring can be used and what tools do we have?",
+            "tags": [
+                "ML Ops for GenAI"
+            ],
+            "output_text_a": "Prompt monitoring can be used to track how prompts change over time, and to evaluate prompt effectiveness for a given task.\n\nTools that are currently being used and discussed are:\n\n*  *OpenLLMetry*: A framework for logging and tracing LLMs and agents, which can be integrated with OpenTelemetry. *Thread:* thread\n* *Vertex AI Model Garden*: Offers Hugging Face to Vertex AI Model Garden integration. *Thread:* thread\n* *LangChain*: An open-source framework for building LLM applications, which offers a variety of tools for prompt engineering, including prompt monitoring. *Thread:* thread\n* *LangSmith*: A tool for evaluating and monitoring LLMs, which offers a range of metrics for evaluating prompt effectiveness. *Thread:* thread\n*  *Vertex AI Shift*: A new SDK for building Gen AI applications, which includes features for tracing and debugging, which can be used for prompt monitoring. *Thread:* thread\n* *Vertex AI Search*: Offers a managed RAG service with functionality for tuning prompt effectiveness and evaluation. *Thread:* thread\n* *GenAI Book*: A Google document that offers guidance on MLOps for Gen AI, including a section on prompt management. *Thread:* thread\n* *Cloud Workflows*: A service for orchestrating and managing workflows, which can be used to manage prompt engineering pipelines. *Thread:* thread\n* *Project Anaheim* (Vertex AI Vision): A vision-focused product offering that provides a visual canvas and pre-built specialized models. *Thread:* thread\n\nMore information on tools and approaches for prompt monitoring can be found in the following spaces and threads:\n\n* *Space:* spaces/AAAAOcj1iRQ\n* *Thread:* thread\n* *Thread:* thread\n* *Thread:* thread\n* *Thread:* thread\n* *Thread:* thread\n* *Thread:* thread",
+            "output_text_b": "This Google Chat Space doesn&#39;t mention the different ways prompt monitoring can be used.\n\nHowever, thread mentions [PromptLayer\n            ](thread) as a potential tool for prompt monitoring.",
+            "score": 0.5,
+            "individual_rater_scores": []
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "source_path": "n/a: synthetic data for LLM Comparator demo",
+    "custom_fields_schema": [
+    ]
+  },
+  "models": [
+    {"name": "ABC v0.6"},
+    {"name": "ABC v0.5"}
+  ],
+  "examples": [
+    {
+      "input_text": "What is LLM Comparator?",
+      "tags": ["Technology"],
+      "output_text_a": "LLM Comparator is an interactive tool for analyzing results from side-by-side LLM evaluation. It visualizes model performance and helps users explore individual responses.\n\nIt has been developed by the People + AI Research Team at Google. The code is available at https://github.com/PAIR-code/llm-comparator.",
+      "output_text_b": "LLM Comparator is a tool for comparing LLM responses from two different models.",
+      "score": 0.5,
+      "individual_rater_scores": []
+    },
+    {
+        "input_text": "What is LLM Comparator?",
+        "tags": ["Technology"],
+        "output_text_a": "LLM Comparator is an interactive tool for analyzing results from side-by-side LLM evaluation. It visualizes model performance and helps users explore individual responses.\n\nIt has been developed by the People + AI Research Team at Google. The code is available at https://github.com/PAIR-code/llm-comparator.",
+        "output_text_b": "LLM Comparator is a tool for comparing LLM responses from two different models.",
+        "score": 0.5,
+        "individual_rater_scores": []
+      }
+  ]
+}
